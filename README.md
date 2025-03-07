@@ -1,4 +1,4 @@
-"""
+
 banking-automation-Python
 
  💼 Sistema de Gestión de Empleados y Cuentas Bancarias
@@ -148,7 +148,7 @@ if __name__ == "__main__":
 
 ---
 
- 💪 Contribuciones """
+ 💪 Contribuciones 
 Si deseas mejorar este proyecto, podés hacer un **fork** y enviar un **pull request** en GitHub.
 
 ---
